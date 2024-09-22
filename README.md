@@ -1,3 +1,3 @@
-# Microsoft and FCC Certificate in Foundational C\#  
+# Microsoft and FCC Certificate in C\#  
 
-Challenge 5: Create a mini game.
+Challenge 5: Create a mini food game.
